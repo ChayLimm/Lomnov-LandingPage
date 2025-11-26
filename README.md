@@ -3,7 +3,7 @@
 Name: Cheng ChayLim
 Project: Lomnov - Landing Page
 
-Git Link : 
+Git Link : https://github.com/ChayLimm/Lomnov-LandingPage.git
 
 Screenshots
 -
