@@ -29,7 +29,7 @@
 - **Navigation Bar & Hero section**  
   <img src="./assets/images/mobile-image.png" width="300">
 
-- **"Why VibeFlow" Section**  
+- **"Why Lomnov" Section**  
   <img src="./assets/images/mobile-image-1.png" width="300">
 
 - **Pricing Section**  
